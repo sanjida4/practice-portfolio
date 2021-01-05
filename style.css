@@ -44,6 +44,7 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    height: 1000px;
 }
 .last{
     background-image: url(images/exp-bg.png);
